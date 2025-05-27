@@ -11,7 +11,7 @@ The twist of the program is that all numbers divisible by 9 share the same symbo
 - **Grid of Symbols:** The main window displays a grid of 99 symbols, each paired with a number from 0 to 98.
 - **Random Special Symbol:** A random symbol is assigned to all positions in the grid that are divisible by 9.
 - **Instructional Message:** The application provides a brief message at the top of the window that guides the user through the mental trick.
-- **Submit Button:** Once the user is ready, they click the "Submit" button to reveal the special symbol in a refreshed window.
+- **submit_button = QPushButton("submit"):** submit_button =   QPushButton("Chin Tapak Dum Dum")
 
 ## How It Works
 
